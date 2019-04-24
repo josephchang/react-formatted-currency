@@ -1,5 +1,5 @@
+import { CurrencyParts, formatCurrencyToParts } from 'format-currency-to-parts';
 import { FC } from 'react';
-import { formatCurrencyToParts, CurrencyParts } from 'format-currency-to-parts';
 
 export type RenderArgs = { [part in CurrencyParts]?: string };
 

@@ -1,8 +1,9 @@
 {
   "name": "react-formatted-currency",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "React component for displaying parts of the currency value differently",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/**/*"
   ],
@@ -10,13 +11,22 @@
     "build": "tsc",
     "start": "webpack-dev-server --mode development --open --hot",
     "test": "jest --config jest.config.json",
+    "lint": "tslint -p tsconfig.json",
     "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/josephchang/react-formatted-currency.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "currency",
+    "format",
+    "ui",
+    "parts"
+  ],
   "author": "joechang",
   "license": "ISC",
   "bugs": {
