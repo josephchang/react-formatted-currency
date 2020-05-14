@@ -2503,10 +2503,10 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-format-currency-to-parts@^0.1.0:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/format-currency-to-parts/-/format-currency-to-parts-0.1.1.tgz#886ecf3a5dd904eb93505fa80cadc3464b31692d"
-  integrity sha512-lW+KU6ZGj6BzCxtYlfskCVZwpKoPVhOlJSBHho5d+A5nw8vsDkJ845vZBg5ClQuuEBZ8SFbqP4dANdqSSvOPPQ==
+format-currency-to-parts@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/format-currency-to-parts/-/format-currency-to-parts-0.1.2.tgz#9d14e41ea9a78550c46ec7d54d175d03017cf661"
+  integrity sha512-Fir5hWepcG6i0iB0ij00uQKpi0jPjFsLEKW9PVtn6KH1xcjxWAtO1/jGxw5tOcmzMrBXlivQQQMvIy7RnFqjEQ==
 
 forwarded@~0.1.2:
   version "0.1.2"

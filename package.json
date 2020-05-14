@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/josephchang/react-formatted-currency#readme",
   "dependencies": {
-    "format-currency-to-parts": "^0.1.0"
+    "format-currency-to-parts": "^0.1.2"
   },
   "devDependencies": {
     "@types/enzyme": "^3.9.1",
